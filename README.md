@@ -1,4 +1,4 @@
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/selbouka" alt="selbouka's 42 stats" /></a>
+[![selbouka's 42 stats](https://badge.mediaplus.ma/water/selbouka)](https://github.com/oakoudad/badge42)
 
 
 
