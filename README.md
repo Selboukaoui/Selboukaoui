@@ -1,6 +1,6 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/selbouka" alt="selbouka's 42 stats" /></a>
 
-<a href="https://github.com/oakoudad/badge42/blob/main/example/black.svg"><img src="https://badge.mediaplus.ma/kettlebells/selbouka" alt="selbouka's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://github.com/oakoudad/badge42/blob/main/example/black.svg/selbouka" alt="selbouka's 42 stats" /></a>
 
 
 ![Badge](https://github.com/oakoudad/badge42/blob/main/example/black.svg)
