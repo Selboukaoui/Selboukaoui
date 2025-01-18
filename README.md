@@ -1,5 +1,8 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/selbouka" alt="selbouka's 42 stats" /></a>
 
+![Badge](https://github.com/oakoudad/badge42/blob/main/example/black.svg)
+
+
 <h1>Hey welcome to my GitHub profile. Enjoy : °</h1>
 <p>I'm a 1337 Student </p>
 <h2>🚀 Languages and Tools I Use</h2>
