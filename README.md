@@ -2,8 +2,6 @@
 
 
 
-![Badge](https://github.com/oakoudad/badge42/blob/main/example/black.svg?name=selbouka)
-
 
 <h1>Hey welcome to my GitHub profile. Enjoy : °</h1>
 <p>I'm a 1337 Student </p>
