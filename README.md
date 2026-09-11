@@ -1,22 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=SAMIR%20ELBOUKAOUI&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20DevOps&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=230&section=header&text=SAMIR%20ELBOUKAOUI&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Systems%20%E2%86%94%20Web%2C%20I%20build%20both%20sides%20of%20the%20stack&descSize=17&descAlignY=55" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Building+real-world+software.;Full-Stack+%7C+Backend+%7C+DevOps;C%2B%2B+%7C+TypeScript+%7C+Node.js+%7C+Next.js;Linux+%7C+Docker+%7C+NGINX;42+Network+%2F+1337+Coding+School" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=kernel+syscalls+by+day%2C+React+components+by+night;C+%2F+C%2B%2B+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Next.js;Linux+%C2%B7+Docker+%C2%B7+NGINX+%C2%B7+PostgreSQL;42+Networks+%C2%B7+Kaunas%2C+Lithuania;currently%3A+open+to+PFE+%2F+internship+roles" alt="Typing SVG"/>
 
 <br>
 
-<a href="https://github.com/Selboukaoui">
-<img src="https://img.shields.io/badge/GitHub-Selboukaoui-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/samirelboukaoui/">
-<img src="https://img.shields.io/badge/LinkedIn-Samir%20Elboukaoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:samirelboukaouidev@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://github.com/Selboukaoui"><img src="https://img.shields.io/badge/GitHub-Selboukaoui-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/samirelboukaoui/"><img src="https://img.shields.io/badge/LinkedIn-Samir%20Elboukaoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:samirelboukaouidev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Open%20to-PFE%20%2F%20Internship-2ea44f?style=for-the-badge&logo=target&logoColor=white"/></a>
 
 <br><br>
 
@@ -26,29 +19,35 @@
 
 ---
 
-## 👨‍💻 About Me
+## whoami
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-I'm a software developer with a strong **42 Network / 1337 Coding School** background.
+```
+$ whoami
+Samir Elboukaoui, Software & DevOps Engineering student
+42 Networks · Kaunas, Lithuania
 
-I enjoy building applications from the frontend all the way to the infrastructure behind them.
+$ cat interests.txt
+> OS internals: processes, signals, syscalls
+> Networking: sockets, protocols, IRC-scale servers
+> Full-stack web: React/Next.js down to the REST API
+> Infrastructure: Docker, NGINX, reverse proxies, CI/CD
+> Automation & AI-assisted tooling
 
-My main interests are:
+$ status --current
+Building MenaCode (competitive-programming platform, live team project)
+Finishing 42 Networks common core, chasing a PFE internship
+```
 
-* ⚡ Backend & Full-Stack Engineering
-* 🐳 DevOps & Infrastructure
-* 🔐 Security & DevSecOps
-* 🌐 Web Applications
-* 🤖 Automation & AI
-* 🧩 Systems & Networking
-
-I'm currently looking for **internship and junior software engineering opportunities** where I can contribute to real products, solve technical problems, and continue growing as an engineer.
+I like living at the boundary: close enough to the OS to catch a signal
+by hand, comfortable enough on the web to ship the product on top of it.
+Most of what's below was built to prove that to myself first, and to
+recruiters second.
 
 </td>
-
 <td width="40%" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
@@ -61,136 +60,155 @@ I'm currently looking for **internship and junior software engineering opportuni
 
 <div align="center">
 
-# ⚙️ Tech Stack
+## Stack
 
-### 💻 Languages
-
+**Languages**
+<br>
 <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,bash" />
 
-### 🌐 Frontend
-
+**Frontend**
+<br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 
-### 🔧 Backend
-
+**Backend**
+<br>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### 🗄️ Databases
+**Data**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma" />
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
-
-### 🐳 DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,vscode" />
+**Infra & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,vscode,grafana,kubernetes" />
 
 </div>
 
 ---
 
-<div align="center">
-
-# 🚀 Featured Projects
-
-</div>
+## Featured builds
 
 <table width="100%">
 <tr>
-
 <td width="50%" valign="top">
 
-<h3>🧩 MenaCode</h3>
-
-A competitive programming platform built as a final **42 Network / 1337 project**.
+### 🏆 MenaCode
+*Full-stack competitive-programming platform, team of 4, in progress*
 
 <p>
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-black?style=flat-square&logo=socket.io"/>
 </p>
 
-**Features**
+A judge-style platform where users solve problems, run contests, and climb
+a rating ladder. My part spans the stack:
 
-• Competitive programming judge
-• Problems & submissions
-• Contests & rankings
-• Real-time chat
-• OAuth authentication
-• Monaco Editor
-• English / Arabic support
+- Custom OAuth 2.0 (Authorization Code Flow) for Google and 42 Intra, provider-agnostic, plus JWT/httpOnly-cookie sessions and a hashed-token reset flow
+- Real-time chat and presence built on Socket.IO (`Map<userId, Set<socketId>>` for multi-tab support), debugged through disconnect races and StrictMode double-invokes
+- Contest-rating charts, a GitHub-style submission heatmap, and server-side paginated submission lists (Express + Prisma)
+- Prisma/PostgreSQL schema work on Supabase, cascade deletes, migration-conflict cleanup, and a full seed script
+- Husky + commitlint + ESLint/Prettier pipeline; shipped a Next.js production build to Render
+
+<sub>🔒 Private team repository</sub>
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>🐳 Inception</h3>
-
-A complete containerized web infrastructure built with **Docker Compose**.
+### 🐳 Inception
+*Containerized web infrastructure, built from scratch*
 
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 </p>
 
-**Services**
+- NGINX terminating TLS in front of WordPress, MariaDB, and Redis, each in its own container
+- Docker's internal DNS used for service-to-service resolution and port routing, no host-network shortcuts
+- Everything reproducible from a single `docker compose up`, no images pulled pre-built
 
-• NGINX + HTTPS/TLS
-• WordPress
-• MariaDB
-• Redis
-• FTP / FTPS
-• Adminer
-• Portainer
+[🔗 Repo](https://github.com/Selboukaoui/Inception)
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-<h3>🌐 ft_irc</h3>
-
-An IRC server implemented in **C++98**.
+### 🌐 ft_irc
+*An IRC server, from the RFC up, in C++98*
 
 <p>
 <img src="https://img.shields.io/badge/C%2B%2B98-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/TCP%2FIP-Networking-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/poll()-non--blocking%20I%2FO-informational?style=flat-square"/>
 </p>
 
-Built around low-level networking concepts:
+- Single-threaded server built around `poll()`, handling many concurrent clients on non-blocking sockets
+- Full core command set: `PASS`, `NICK`, `USER`, `JOIN`, `PART`, `KICK`, `INVITE`, `TOPIC`, `MODE`, `PRIVMSG`, `QUIT`, plus DCC support
+- Reviewed for spec compliance against modern IRC documentation, not just "works with my own client"
 
-• Socket programming
-• TCP/IP
-• Non-blocking I/O
-• `poll()`
-• Concurrent client handling
+[🔗 Repo](https://github.com/Selboukaoui/IRC)
 
 </td>
-
 <td width="50%" valign="top">
 
-<h3>🧠 42 Network Projects</h3>
+### 🎮 cub3d
+*A raycasting engine, Wolfenstein-3D style, in C*
 
-A collection of systems and software engineering projects covering:
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/MinilibX-Graphics-blueviolet?style=flat-square"/>
+</p>
 
-```text
-C / C++
-Algorithms & Data Structures
-Unix / Linux
-Memory Management
-Processes & Signals
-Networking
-Socket Programming
-Object-Oriented Programming
-Web Development
-Docker & Infrastructure
-```
+- First-person raycasting renderer, textured walls, sprites, and a minimap, driven by a custom map-parsing config format
+- Manual memory management throughout, no leaks tolerated on AddressSanitizer
+
+[🔗 Repo](https://github.com/Selboukaoui/CUB3D-1337-42)
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+### 🐚 minishell
+*A POSIX-ish shell, from scratch*
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
+
+- Custom lexer/parser for pipes, redirections, quoting, and built-ins
+- Command execution via `fork`/`execve`, plus proper signal handling (`SIGINT`, `SIGQUIT`) matching real shell behavior
+
+[🔗 Repo](https://github.com/Selboukaoui/minishell)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧱 42 Networks common core
+*The projects that built the foundation*
+
+Algorithms, memory management, OOP and templates in C++, process/socket
+programming, and more, one project per core CS concept.
+
+<details>
+<summary><b>Browse the vault</b></summary>
+<br>
+
+- [`push_swap`](https://github.com/Selboukaoui/push_swap): sorting algorithm under a move-count constraint
+- [`philosopher`](https://github.com/Selboukaoui/philosopher): dining philosophers, threads/mutexes
+- [`so_long`](https://github.com/Selboukaoui/so_long): 2D game engine basics
+- [`minitalk`](https://github.com/Selboukaoui/minitalk): inter-process communication over UNIX signals
+- [`LIBFT`](https://github.com/Selboukaoui/LIBFT): a libc reimplementation, the foundation everything else is built on
+- [`CPP05`-`CPP09`](https://github.com/Selboukaoui/CPP09): exceptions, polymorphism, STL containers, templates
+
+</details>
+
+</td>
 </tr>
 </table>
 
@@ -198,39 +216,21 @@ Docker & Infrastructure
 
 <div align="center">
 
-# 📊 GitHub Analytics
+## Analytics
 
-<br>
-
-<img src="./profile/stats.svg" width="49%" />
-<img src="./profile/top-langs.svg" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Selboukaoui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selboukaoui&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=Selboukaoui&theme=tokyonight&hide_border=true&background=0D1117" />
 
-</div>
-
----
-
-<div align="center">
-
-#  Contribution Snake
+<br><br>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Selboukaoui/Selboukaoui/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Selboukaoui/Selboukaoui/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/Selboukaoui/Selboukaoui/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Selboukaoui/Selboukaoui/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Selboukaoui/Selboukaoui/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Selboukaoui/Selboukaoui/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </picture>
 
 </div>
@@ -239,16 +239,14 @@ Docker & Infrastructure
 
 <div align="center">
 
-# 🎯 Current Focus
+## Right now
 
 <table>
 <tr>
-<td align="center">💻<br><b>Software Engineering</b></td>
-<td align="center">⚡<br><b>Backend</b></td>
-<td align="center">🌐<br><b>Full-Stack</b></td>
-<td align="center">🐳<br><b>DevOps</b></td>
-<td align="center">🔐<br><b>DevSecOps</b></td>
-<td align="center">🤖<br><b>Automation</b></td>
+<td align="center">🎯<br><b>Hunting a PFE internship</b><br><sub>Kaunas, Lithuania · remote-friendly</sub></td>
+<td align="center">🛠️<br><b>Shipping MenaCode</b><br><sub>real-time features, auth</sub></td>
+<td align="center">📚<br><b>Studying CS</b><br><sub>University of the People</sub></td>
+<td align="center">🤖<br><b>Exploring AI-assisted tooling</b><br><sub>small automation utilities</sub></td>
 </tr>
 </table>
 
@@ -258,43 +256,21 @@ Docker & Infrastructure
 
 <div align="center">
 
-# 📈 What I Work With
+## Let's talk
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│   Frontend        → React / Next.js / TypeScript    │
-│   Backend         → Node.js / Express / APIs        │
-│   Systems         → C / C++ / Linux / Networking    │
-│   Databases       → PostgreSQL / MySQL / Redis      │
-│   Infrastructure  → Docker / NGINX / Linux          │
-│   Security        → Auth / HTTPS / DevSecOps        │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+If you're hiring for a DevOps, backend, or full-stack internship, or just
+want to talk about shells, sockets, or shipping side projects, my inbox
+is open.
 
-</div>
-
----
-
-<div align="center">
-
-# 🌍 Let's Connect
-
-<a href="https://www.linkedin.com/in/samirelboukaoui/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:samirelboukaouidev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/samirelboukaoui/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:samirelboukaouidev@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br><br>
 
-<i>Build • Break • Learn • Improve</i>
+<i>Build. Break. Learn. Improve.</i>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
 
 </div>
