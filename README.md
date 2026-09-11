@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=230&section=header&text=SAMIR%20ELBOUKAOUI&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Systems%20%E2%86%94%20Web%2C%20I%20build%20both%20sides%20of%20the%20stack&descSize=17&descAlignY=55" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=kernel+syscalls+by+day%2C+React+components+by+night;C+%2F+C%2B%2B+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Next.js;Linux+%C2%B7+Docker+%C2%B7+NGINX+%C2%B7+PostgreSQL;42+Networks+%C2%B7+Kaunas%2C+Lithuania;currently%3A+open+to+PFE+%2F+internship+roles" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=kernel+syscalls+by+day%2C+React+components+by+night;C+%2F+C%2B%2B+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Next.js;Linux+%C2%B7+Docker+%C2%B7+NGINX+%C2%B7+PostgreSQL;42+Networks+%C2%B7+open+to+PFE+%2F+internship+roles" alt="Typing SVG"/>
 
 <br>
 
@@ -28,7 +28,7 @@
 ```
 $ whoami
 Samir Elboukaoui, Software & DevOps Engineering student
-42 Networks · Kaunas, Lithuania
+42 Networks 
 
 $ cat interests.txt
 > OS internals: processes, signals, syscalls
@@ -243,7 +243,7 @@ programming, and more, one project per core CS concept.
 
 <table>
 <tr>
-<td align="center">🎯<br><b>Hunting a PFE internship</b><br><sub>Kaunas, Lithuania · remote-friendly</sub></td>
+<td align="center">🎯<br><b>Hunting a PFE internship</b><br><sub> remote-friendly</sub></td>
 <td align="center">🛠️<br><b>Shipping MenaCode</b><br><sub>real-time features, auth</sub></td>
 <td align="center">📚<br><b>Studying CS</b><br><sub>University of the People</sub></td>
 <td align="center">🤖<br><b>Exploring AI-assisted tooling</b><br><sub>small automation utilities</sub></td>
